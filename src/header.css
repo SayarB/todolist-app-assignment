@@ -1,0 +1,14 @@
+.navbar{
+    margin:10px;
+    float:right;
+}
+
+.navbar a{
+    text-decoration:none;
+    color:black;
+    padding:10px;
+}
+.selected{
+    font-weight:bold;
+    border-bottom: 2px solid black;
+}
